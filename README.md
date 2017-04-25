@@ -1,4 +1,7 @@
-# test coverage for  [excel-parser (v0.2.2)](https://github.com/vxtindia/excel-parser)  [![npm package](https://img.shields.io/npm/v/npmtest-excel-parser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-excel-parser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-excel-parser.svg)](https://travis-ci.org/npmtest/node-npmtest-excel-parser)
+# npmtest-excel-parser
+
+#### basic test coverage for  [excel-parser (v0.2.2)](https://github.com/vxtindia/excel-parser)  [![npm package](https://img.shields.io/npm/v/npmtest-excel-parser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-excel-parser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-excel-parser.svg)](https://travis-ci.org/npmtest/node-npmtest-excel-parser)
+
 #### node.js excel parser. Supports xlsx, xls
 
 [![NPM](https://nodei.co/npm/excel-parser.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/excel-parser)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-excel-parser/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-excel-parser/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-excel-parser/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-excel-parser/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-excel-parser/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-excel-parser/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-excel-parser/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-excel-parser/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-excel-parser/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-excel-parser/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-excel-parser/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-excel-parser/build/coverage.html/index.html)
 
@@ -103,7 +106,8 @@
             },
             "pkgid": "excel-parser@0.2.2"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
